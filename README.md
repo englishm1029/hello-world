@@ -6,7 +6,7 @@ My First App made in Android Studio.
 
 ### App Walk-though
 
-<img src="file:///C:/Users/xaxis/OneDrive/Desktop/Miana/2018-2019/CodePathAppDesignProjects/HelloWorld.gif" width=200><br>
+<img src="https://github.com/englishm1029/hello-world/blob/master/HelloWorld.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
